@@ -30,9 +30,3 @@ A mathematical tool for processing multi-dimensional arrays.
 
 ---
 *Developed by Artem Sochyvets as part of my journey toward becoming a Fachinformatiker für Anwendungsentwicklung.*
-
-print("-------------------------")
-
-
-
-
